@@ -1,0 +1,163 @@
+/tmp/WZkVGZImBj.o
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+1
+Enter the value : 23
+Output for Doubly Linked List Program
+-------------------------------------
+
+
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+1
+Enter the value : 42
+Node inserted
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+7
+Printing values...
+42
+23
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.QuitEnter your choice?
+5
+Node deleted
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+7
+Printing values...
+42
+*****Menu*****Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+2
+Enter value : 54
+Node inserted
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+6
+Enter the data after which the node is to be deleted : 42
+Node deleted
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+7
+Printing values...
+42
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+4
+Node deleted
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+7
+Printing values...
+*****Menu*****
+Enter the choice
+------------------
+1.Insert in begining
+2.Insert at last
+3.Insert at a given index
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node at given index
+7.Display
+8.Quit
+Enter your choice?
+8
